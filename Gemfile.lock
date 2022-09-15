@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    reso_transport (1.5.10)
-      faraday (~> 1.0.1)
+    reso_transport (1.5.16)
+      faraday (~> 1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -13,7 +13,7 @@ GEM
     minitest (5.13.0)
     minitest-rg (5.2.0)
       minitest (~> 5.0)
-    multipart-post (2.1.1)
+    multipart-post (2.2.3)
     rake (13.0.1)
     vcr (6.0.0)
 
